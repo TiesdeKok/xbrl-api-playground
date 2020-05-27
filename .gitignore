@@ -10,6 +10,7 @@
 !*.md
 !*.yml
 
+login_cred_empty.json
 xbrl_us_api -Ties.ipynb
 
 **/desktop.ini
