@@ -1,0 +1,9 @@
+name: xbrl_api_playground
+
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - requests
+  - xlrd
+  - openpyxl

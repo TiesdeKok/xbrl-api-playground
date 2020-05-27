@@ -1,0 +1,15 @@
+/*
+!.gitignore
+
+**untitled*.py
+**untitled*.txt
+**/.ipynb_checkpoints
+**/desktop.ini
+
+!*.ipynb
+!*.md
+!*.yml
+
+xbrl_us_api -Ties.ipynb
+
+**/desktop.ini
